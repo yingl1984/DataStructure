@@ -54,4 +54,6 @@ starTrek.pop();
 let result = starTrek.display();
 console.log(result);
 
-module.exports = Stack;
+
+
+
