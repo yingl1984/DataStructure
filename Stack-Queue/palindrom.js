@@ -33,8 +33,6 @@ function is_palindrome(s) {
 }
 
 // True, true, true, false
-
-
 console.log(is_palindrome("dad"));
 console.log(is_palindrome("A man, a plan, a canal: Panama"));
 console.log(is_palindrome("1001"));
